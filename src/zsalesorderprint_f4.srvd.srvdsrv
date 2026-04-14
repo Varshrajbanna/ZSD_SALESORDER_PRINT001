@@ -1,0 +1,5 @@
+@EndUserText.label: 'Sales Order F4 Defination'
+define service ZSALESORDERPRINT_F4 {
+  expose zsd_so_f4;
+  expose zsd_quotation_f4;
+}
